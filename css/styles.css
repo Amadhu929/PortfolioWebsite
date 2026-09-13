@@ -7,7 +7,7 @@ html {
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    color: #1f2933;
+    color: #1f2944;
     background-color: #ffffff;
 }
 
@@ -216,7 +216,7 @@ h1 {
 /*carousel button*/
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  filter: invert(1);
+  color: #5f4c81;
 }
 
 
