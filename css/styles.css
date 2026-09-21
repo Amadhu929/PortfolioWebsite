@@ -216,7 +216,7 @@ h1 {
 /*carousel button*/
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  color: invert(1);
+  filter: invert(1);
 }
 
 
