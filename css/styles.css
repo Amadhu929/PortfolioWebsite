@@ -216,7 +216,7 @@ h1 {
 /*carousel button*/
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  color: #5f4c81;
+  color: invert(1);
 }
 
 
